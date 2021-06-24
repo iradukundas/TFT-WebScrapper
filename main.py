@@ -128,7 +128,7 @@ async def lb(ctx):
     driver.get("https://lolchess.gg")
 
 
-Client.run('Nzc4MzEzMDg3NzIyOTc5MzU4.X7QKjA.Sbwz4bQoRRR3dJyeI5vf71Hk-kQ')
+Client.run('')
 
 # git add ., git commit -m "msg", git push heroku <--- for changes
 #heroku logs -a discord-tft-stats --tail
